@@ -1,7 +1,7 @@
 # nqch-quantum-mcp
 
 An [MCP](https://modelcontextprotocol.io/) server that lets LLM agents submit quantum circuits to the
-[NQCH Quantum Cloud](https://quantum.nqch.ae) system and manage jobs via the
+[NQCH Quantum Cloud](https://nqch.qibo.science) system and manage jobs via the
 [`nqch-quantum`](https://pypi.org/project/nqch-quantum/) Python client.
 
 ## Tools
